@@ -1,6 +1,6 @@
 /**
  * @file AlumnosMayorEdad.c
- * @author your name (Jessica, Francisco, Ivan, Nikooll)
+ * @author your name ( Nikooll)
  * @brief Saber la cantidad de alumnos que son mayores de edad 
  * @version 0.1
  * @date 2024-01-17
