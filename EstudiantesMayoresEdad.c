@@ -3,8 +3,6 @@
  * @author your name ( Nikooll)
  * @brief Saber la cantidad de alumnos que son mayores de edad 
  * @version 0.1
- * @date 2024-01-17
- * 
  * @copyright Copyright (c) 2024
  * 
  */
