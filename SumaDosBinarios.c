@@ -1,11 +1,4 @@
-/**
- * @file SumaDosBinarios.c
- * @author your name (Nathaly Camacho)
- * @brief Sumar dos numeros binarios utilizando las reglas correspondientes para que se efectue la operación: 0+0=0, 0+1=1, 1+0=1, 1+1=0 y acarreo 1.
- * @version 0.1
- * @copyright Copyright (c) 2024
- * 
- */
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>  //
