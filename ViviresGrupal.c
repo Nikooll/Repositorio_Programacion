@@ -1,11 +1,4 @@
-/**
- * @file ViviresGrupal.c
- * @author your name (you@domain.com)
- * @brief 
- * @version 0.1
- * @copyright Copyright (c) 2024
- * 
- */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
