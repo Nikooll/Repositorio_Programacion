@@ -1,11 +1,4 @@
-/**
- * @file AlumnosMayorEdad.c
- * @author your name ( Nikooll)
- * @brief Saber la cantidad de alumnos que son mayores de edad 
- * @version 0.1
- * @copyright Copyright (c) 2024
- * 
- */
+
 
 #include <stdio.h>
 #include<stdlib.h>
